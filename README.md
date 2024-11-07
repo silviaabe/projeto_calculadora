@@ -1,6 +1,6 @@
 # Calculadora
 
-  Este é um projeto de um site completo de uma loja de jogos, contendo header, footer, formulário, links de redes sociais... 
+  Este é um projeto de uma calculadora que calcula a média das atividades de um aluno no bimetre, semestre ou ano, e diz se ele foi ou não aprovado. 
   Foi desenvolvido com <b>HTML</b> e <b>CSS</b>, seguindo um exercício do [curso de Engenheiro Front-End](https://ebaconline.com.br/front-end-profession) da EBAC.
 
 <br>
